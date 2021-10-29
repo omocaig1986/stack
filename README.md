@@ -10,7 +10,7 @@ For a detailed information about the framework you can read my MSc thesis at [ra
 
 ```bibtex
 @article{8964273,
-    author={Beraldi, Roberto and Proietti Mattia, Gabriele},
+    author={Beraldi, Roberto and Proietti Mattia, Gabriele and Magnani, Giacomo},
     journal={IEEE Transactions on Cloud Computing},
     title={Power of random choices made efficient for fog computing},
     year={2020},
